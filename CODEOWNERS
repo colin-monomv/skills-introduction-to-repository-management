@@ -1,0 +1,7 @@
+# Core functionality - changes here should be rare!
+/src/app.py                   @colin-monomv
+/src/backend/database.py      @colin-monomv
+/src/backend/routers/auth.py  @colin-monomv
+
+# The frontend will need refactored soon to be more object oriented.
+/src/static/   @colin-monomv
